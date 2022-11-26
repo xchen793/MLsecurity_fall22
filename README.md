@@ -17,15 +17,11 @@
 Models: A Case Study on BERT](https://arxiv.org/pdf/2110.15733.pdf)
 
 
-### 11-28
+### 11-28 - 11-30
 1. Retrain on the fair dataset and record our preliminary results.
 2. Compare our results in mitigating the bias to that of the reference paper.
 
-### 11-29
-
-### 11-30
-
-### 12-1
+### 12-1 - 12-2
 
 
 ### 12-2
