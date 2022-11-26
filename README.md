@@ -26,6 +26,7 @@
 ### Ref papers
 [Detecting Gender Bias in Transformer-based
 Models: A Case Study on BERT](https://arxiv.org/pdf/2110.15733.pdf)
+
 [A Multiscale Visualization of Attention in the Transformer Model](https://arxiv.org/pdf/1906.05714.pdf)
 
 
