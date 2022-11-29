@@ -24,6 +24,8 @@
 [Datasets2](https://github.com/pliang279/LM_bias)
 
 ### Ref papers
+[Paper list](https://github.com/uclanlp/awesome-fairness-papers#bias-visualization)
+
 [Detecting Gender Bias in Transformer-based
 Models: A Case Study on BERT](https://arxiv.org/pdf/2110.15733.pdf)
 
