@@ -29,6 +29,12 @@ Models: A Case Study on BERT](https://arxiv.org/pdf/2110.15733.pdf)
 
 [A Multiscale Visualization of Attention in the Transformer Model](https://arxiv.org/pdf/1906.05714.pdf)
 
+[Towards Understanding and Mitigating Social Biases in Language Models](https://arxiv.org/pdf/2106.13219.pdf)
+
+
+### Midproject Overleaf
+[Click here](https://www.overleaf.com/project/63770d89ce2b7968a82877cc)
+
 
 ### Code
 https://colab.research.google.com/drive/1sQ-gRenpZt243B-F__0o4Rz1Lf5L4kZj
