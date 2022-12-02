@@ -18,6 +18,7 @@
 
 ### Visualization Toolkit
 [BertViz](https://github.com/jessevig/bertviz)
+[Ecco](https://github.com/jalammar/ecco)
 [VERB](https://tdavislab.github.io/verb/)
 
 ### Datasets
