@@ -17,7 +17,8 @@
 1. submit the mid project
 
 ### Visualization Toolkit
-[Visualization Toolkit Github](https://github.com/jessevig/bertviz)
+[BertViz](https://github.com/jessevig/bertviz)
+[VERB](https://tdavislab.github.io/verb/)
 
 ### Datasets
 [Datasets1](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification)
